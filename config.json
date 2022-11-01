@@ -1,0 +1,14 @@
+{
+    "token": "ODQ2ODYzMjAzMzMzOTYzODM3.YK1s0Q.Cghjr3vKC1euU1Z-Qh_HmYFTjco",
+    "guildId": "594710613918482442",
+    "clientId": "846863203333963837",
+
+    "nodes": [
+        {
+            "id": "MAIN",
+            "host": "127.0.0.1",
+            "port": "2333",
+            "passowrd": "youshallnotpass"
+        }
+    ]
+}
